@@ -80,7 +80,7 @@ This Challenge is graded based on the following criteria:
 
 * The HTML must have:
 
-    * a `header` element. (7 points)
+    * a `header` element. (7 points) 
 
     * a `nav` element. (7 points)
     
